@@ -1,0 +1,23 @@
+{
+  "name": "image-metadata-from-base64",
+  "version": "1.0.0",
+  "description": "A simple Node.js module for reading metadata from a base64-encoded image string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RootDev4/image-metadata-from-base64.git"
+  },
+  "keywords": ["nodejs", "javascript", "image", "base64", "canvas", "metadata", "width", "height", "exif"],
+  "author": "RootDev4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RootDev4/image-metadata-from-base64/issues"
+  },
+  "homepage": "https://github.com/RootDev4/image-metadata-from-base64#readme",
+  "dependencies": {
+    "canvas": "^2.10.2"
+  }
+}
